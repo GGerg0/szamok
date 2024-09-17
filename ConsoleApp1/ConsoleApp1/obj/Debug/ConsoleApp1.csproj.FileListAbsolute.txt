@@ -1,0 +1,7 @@
+J:\c#\szamok\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+J:\c#\szamok\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+J:\c#\szamok\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+J:\c#\szamok\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+J:\c#\szamok\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+J:\c#\szamok\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+J:\c#\szamok\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -10,7 +10,18 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1,2,3,5,7,11,13,17,19");
+            int szam = Convert.ToInt32(Console.ReadLine());
+            switch (szam)
+            {
+                case 3: Console.WriteLine("Osztható 3-mal"); break;
+                case 6: Console.WriteLine("Osztható 3-mal"); break;
+                case 9: Console.WriteLine("Osztható 3-mal"); break;
+                case 12: Console.WriteLine("Osztható 3-mal"); break;
+                case 15: Console.WriteLine("Osztható 3-mal"); break;
+                case 18: Console.WriteLine("Osztható 3-mal"); break;
+                default: Console.WriteLine("Nem osztható 3-mal"); break;
+            }
+            Console.ReadKey();
         }
     }
 }
